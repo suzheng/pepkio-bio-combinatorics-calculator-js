@@ -16,7 +16,7 @@
     }
   },
   "bin": {
-    "pepkio-bio-combinatorics-calculator": "./dist/cli.js"
+    "pepkio-bio-combinatorics-calculator": "dist/cli.js"
   },
   "files": [
     "dist",
