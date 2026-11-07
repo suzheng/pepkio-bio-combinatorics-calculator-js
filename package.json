@@ -2,6 +2,7 @@
   "name": "pepkio-bio-combinatorics-calculator",
   "version": "0.1.0",
   "description": "Call the Pepkio Bio Combinatorics Calculator REST API from Node.js with typed ESM imports and a CLI.",
+  "readme": "README_NPM.md",
   "type": "module",
   "engines": {
     "node": ">=18"
@@ -20,6 +21,7 @@
   "files": [
     "dist",
     "README.md",
+    "README_NPM.md",
     "LICENSE"
   ],
   "scripts": {
@@ -50,7 +52,12 @@
     "typescript",
     "node",
     "rest-api",
-    "scientific-computing"
+    "scientific-computing",
+    "ngs-multiplexing",
+    "degenerate-primers",
+    "iupac",
+    "barcode-capacity",
+    "crispr-screening"
   ],
   "author": "Pepkio Team",
   "license": "MIT",
